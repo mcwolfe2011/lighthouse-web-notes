@@ -7,5 +7,9 @@
 > 1. [javascripting](https://github.com/mcwolfe2011/javascripting)
 > 2. [lighthouse-js-fundamentals](https://github.com/mcwolfe2011/lighthouse-js-fundamentals)
 
-## W01D1 - Week 1 Day 1
+## Table of Contents
+1. [Week 1](/Week_1)
+    * [Day 1](/Week_1/Day_1)
+    
+2. 
 
